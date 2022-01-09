@@ -4,7 +4,7 @@
         "string": {}
       },
       "avatarUrl": {
-        "regexp": "https://i\\.pravatar\\.cc/150?u=[0-9]{5}"
+        "regexp": "https://avatars\\.dicebear\\.com/api/adventurer/[0-9]{5}\\.png"
       },
       "statusMessage": {
         "string": [
