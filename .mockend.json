@@ -9,7 +9,10 @@
       "statusMessage": {
         "string": [
           "working from home",
-          "watching Netflix"
+          "watching Netflix",
+          "out of office",
+          "in a meeting",
+          "busy"
         ]
       },
       "email": {
